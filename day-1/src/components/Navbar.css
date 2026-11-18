@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(39, 156, 160);
+    padding: 1rem;
+    width: 85vw;
+    margin: auto;
+    margin-top: 0.5rem;
+    border-radius: 10px;
+    font-size: 17px;
+    font-family: sans-serif;
+
+   
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    gap: 4rem;
+}
